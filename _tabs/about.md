@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I am Krishna Padmasola. I am interested in computer science, mathematics and physics.
+This blog is an attempt to share some of my adventures in these areas.
