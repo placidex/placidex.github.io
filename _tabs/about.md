@@ -5,4 +5,4 @@ order: 4
 ---
 
 Hi, I am Krishna Padmasola. I am interested in computer science, mathematics and physics.
-This blog is an attempt to share some of my adventures in these areas.
+This blog is an attempt to share my explorations in these areas.
